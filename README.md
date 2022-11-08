@@ -5,4 +5,5 @@
 -- npm install supertest
 
 ## Run
--- node server.js
+-- node bst.js inside BST/
+-- node server.js inside server/
